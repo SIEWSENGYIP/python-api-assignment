@@ -1,0 +1,86 @@
+#Get all the houses
+http://localhost:5000/houses
+
+#Get house by id
+http://localhost:5000/houses/<id>
+
+#Get houses by min_sell_price
+http://localhost:5000/houses?min_sell_price=
+
+#Get houses by max_sell_price
+http://localhost:5000/houses?max_sell_price=
+
+#Get house between min_sell_price and max_sell_price
+http://localhost:5000/houses?min_sell_price=&max_sell_price=
+
+#Get houses by min_list_price
+http://localhost:5000/houses?min_list_price=
+
+#Get houses by max_list_price
+http://localhost:5000/houses?max_list_price=
+
+#Get house between min_list_price and max_list_price
+http://localhost:5000/houses?min_list_price=&max_list_price=
+
+#Get houses by min_living_size
+http://localhost:5000/houses?min_living_size=
+
+#Get houses by max_living_size
+http://localhost:5000/houses?max_living_size=
+
+#Get house between min_living_size and max_living_size
+http://localhost:5000/houses?min_living_size=&max_living_size=
+
+#Get houses by min_rooms_num
+http://localhost:5000/houses?min_rooms_num=
+
+#Get houses by max_rooms_num
+http://localhost:5000/houses?max_rooms_num=
+
+#Get house between min_rooms_num and max_rooms_num
+http://localhost:5000/houses?min_rooms_num=&max_rooms_num=
+
+#Get houses by min_beds_num
+http://localhost:5000/houses?min_beds_num=
+
+#Get houses by max_beds_num
+http://localhost:5000/houses?max_beds_num=
+
+#Get house between min_beds_num and max_beds_num
+http://localhost:5000/houses?min_beds_num=&max_beds_num=
+
+#Get houses by min_baths_num
+http://localhost:5000/houses?min_baths_num=
+
+#Get houses by max_baths_num
+http://localhost:5000/houses?max_baths_num=
+
+#Get house between min_baths_num and max_baths_num
+http://localhost:5000/houses?min_baths_num=&max_baths_num=
+
+#Get houses by min_age
+http://localhost:5000/houses?min_age=
+
+#Get houses by max_age
+http://localhost:5000/houses?max_age=
+
+#Get house between min_age and max_age
+http://localhost:5000/houses?min_age=&max_age=
+
+#Get houses by min_acres
+http://localhost:5000/houses?min_acres=
+
+#Get houses by max_acres
+http://localhost:5000/houses?max_acres=
+
+#Get house between min_acres and max_acres
+http://localhost:5000/houses?min_acres=&max_acres=
+
+#Get houses by min_taxes
+http://localhost:5000/houses?min_taxes=
+
+#Get houses by max_taxes
+http://localhost:5000/houses?max_taxes=
+
+#Get house between min_taxes and max_taxes
+http://localhost:5000/houses?min_taxes=&max_taxes=

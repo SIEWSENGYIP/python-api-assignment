@@ -1,0 +1,21 @@
+2019-09-11 22:17:36.336 +08 [20040] FATAL:  lock file "postmaster.pid" already exists
+2019-09-11 22:17:36.336 +08 [20040] HINT:  Is another postmaster (PID 4516) running in data directory "C:/Users/siew_seng_yip/scoop/apps/postgresql/current/data"?
+2019-09-11 22:22:15.737 +08 [18876] LOG:  listening on IPv6 address "::1", port 5432
+2019-09-11 22:22:15.737 +08 [18876] LOG:  listening on IPv4 address "127.0.0.1", port 5432
+2019-09-11 22:22:16.165 +08 [18240] LOG:  database system was shut down at 2019-09-11 22:22:09 +08
+2019-09-11 22:22:16.443 +08 [18876] LOG:  database system is ready to accept connections
+2019-09-11 22:38:28.116 +08 [16572] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-09-11 22:39:36.911 +08 [22960] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-09-11 22:40:15.296 +08 [23040] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-09-11 22:40:15.296 +08 [23040] LOG:  unexpected EOF on client connection with an open transaction
+2019-09-11 22:47:35.894 +08 [2972] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-09-11 23:00:50.712 +08 [22436] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-09-11 23:02:06.407 +08 [14812] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
+2019-09-11 23:06:44.908 +08 [12452] LOG:  could not receive data from client: An existing connection was forcibly closed by the remote host.
+	
